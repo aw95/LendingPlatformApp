@@ -5,8 +5,8 @@ using Xunit;
 namespace LendingPlatform.Tests
 {
     /// <summary>
-    ///     xUnit tests for the LoanValidationService.
-    ///     Added two quick tests, if I had more time I would have added more tests for the other acceptance criteria.
+    /// xUnit tests for the LoanValidationService.
+    /// Added two quick tests, if I had more time I would have added more tests for the other acceptance criteria.
     /// </summary>
     public class LoanValidationServiceTests
     {
